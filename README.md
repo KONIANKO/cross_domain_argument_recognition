@@ -1,15 +1,18 @@
+# Cross-Domain Argument Recognition
+
 To work with exactly same dataset, start from executing:
 
-run
 train_test_set_creator.ipynb
-	*input:
-		*non_arguments_random_raw.csv
-		*non_arguments_questions_raw.csv
-		*domain_1_arguments_raw.csv
-		*domain_2_arguments_raw.csv
-	*output:
-		*domain_1_set_clean.csv
-		*domain_2_set_clean.csv
+* input:
+	* non_arguments_random_raw.csv
+	* non_arguments_questions_raw.csv
+	* domain_1_arguments_raw.csv
+	* domain_2_arguments_raw.csv
+* output:
+	* domain_1_set_clean.csv
+	* domain_2_set_clean.csv
+
+Then run the models
 
 
 -------------------------
